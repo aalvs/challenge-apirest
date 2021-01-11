@@ -23,7 +23,7 @@ Relatório das entradas, tendo as funções de uma Restful API (delete, put, get
 <br/>
 <a href='https://spring.io/projects/spring-boot'>Spring Boot</a>
 <br/>
-<a href='https://swagger.io/tools/swagger-ui/'>Swaager UI</a>
+<a href='https://swagger.io/tools/swagger-ui/'>Swagger UI</a>
 <br/>
 <a href='https://www.postgresql.org/'>PostgresSQL</a>
 <br/>
