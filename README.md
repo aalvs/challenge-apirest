@@ -1,4 +1,4 @@
-## 🚀 Challenge
+## 🚀 Desafio
 
 Utilizando banco (de preferência MariaDB/MySQL/PostgreSQL), backend Java e Frontend Angular 2+.
 
